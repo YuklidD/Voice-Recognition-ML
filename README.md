@@ -42,15 +42,5 @@ Python 3.x
 PyQt5
 PyAudio
 SpeechRecognition
-You can install the necessary libraries using pip:
 
-bash
-Copy code
-pip install PyQt5 pyaudio SpeechRecognition
-Usage
-To run the application, simply clone the repository, navigate to the source directory, and execute the main script:
-
-bash
-Copy code
-python main.py
 Once the application is running, click the "Start Listening" button and speak into your microphone. The application will then attempt to recognize your speech and open the spoken phrase as a URL in Microsoft Edge.
